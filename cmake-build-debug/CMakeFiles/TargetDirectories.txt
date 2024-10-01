@@ -1,0 +1,3 @@
+/Users/ale/CLionProjects/Esercizio_3_16new/cmake-build-debug/CMakeFiles/Esercizio_3_16new.dir
+/Users/ale/CLionProjects/Esercizio_3_16new/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ale/CLionProjects/Esercizio_3_16new/cmake-build-debug/CMakeFiles/rebuild_cache.dir
